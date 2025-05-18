@@ -1,0 +1,11 @@
+flask==3.0.2
+flask-cors==4.0.0
+flask-jwt-extended==4.6.0
+werkzeug==3.0.1
+python-dotenv==1.0.0
+sounddevice==0.4.6
+numpy==1.24.3
+SpeechRecognition==3.10.0
+requests==2.31.0
+geocoder==1.38.1
+PyAudio==0.2.13 
