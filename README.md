@@ -1,4 +1,4 @@
-# Emergency Alert System
+# SHEGuard: AI-Powered Real- Time Safety & Crisis Support for Women
 
 A Python-based emergency alert system that uses voice recognition to detect emergency situations and automatically sends location information and audio recordings to specified contacts.
 
